@@ -3,32 +3,30 @@
 <p>Student Programmer, self taught </p>
 <p>Robotics Trainer by trade</p>
 
-⚙️ I use daily: .py
+⚙️ I use daily: .py <br>
 
 
-name: Marianna
-located_in: Mountain View, CA
-current_job: Student Programmer, Robotics Trainer
-education:
-  [
-    "Self-Taught Programmer",
+name: Marianna <br>
+located_in: Mountain View, CA <br>
+current_job: Student Programmer, Robotics Trainer <br>
+education: <br>
 
-    "Bachelor's in Computer Science",
-  ]
+    Self-Taught Programmer, Bachelor's in Computer Science
+  <br>
 company: Tesla
-
+<br>
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "Robotics"
+    Web Development <br>
+    Data Science    <br>
+    Machine Learning <br>
+    Robotics
   ]
-technical_background:
+technical_background: <br>
   [
-  AP Optimus - Tesla
+  AP Optimus - Tesla <br>
   ]
   
-currently_learning: ["Tensorflow, Pytorch, Deep Learning"]
-2024 Goals: ["Create multiple ML models."]
-hobbies: [BJJ, Hiking, Gym, Sleep]
+currently_learning: ["Tensorflow, Pytorch, Deep Learning"] <br>
+2024 Goals: ["Create multiple ML models."] <br>
+hobbies: [BJJ, Hiking, Gym, Sleep] <br>
