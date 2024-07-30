@@ -3,7 +3,7 @@
 <p>Student Programmer, self taught </p>
 <p>Robotics Trainer by trade</p>
 
-⚙️ I use daily: .py <br>
+⚙️ I use daily: .py  .cpp <br>
 
 
 name: Marianna <br>
@@ -25,6 +25,12 @@ fields_of_interests:
 technical_background: <br>
   [
   AP Optimus - Tesla <br>
+      I train Optimus through various methods: motion capture, computer vision, LIDAR, mapping 
+      <br> 
+          learning navigation through SLAM, locatization, object detection, LIDAR processing 
+          <br>
+          learn decision making
+      <br>
   ]
   
 currently_learning: ["Tensorflow, Pytorch, Deep Learning"] <br>
