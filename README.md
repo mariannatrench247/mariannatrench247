@@ -11,17 +11,18 @@ located_in: Mountain View, CA <br>
 current_job: Student Programmer, Robotics Trainer <br>
 education: <br>
 
-    Self-Taught Programmer, Bachelor's in Computer Science
+  <i>   Self-Taught Programmer </i> , Bachelor's in Computer Science
   <br>
 company: Tesla
 <br>
 <b>fields_of_interests:</b>
-  [
+ <br> [
    <br> Web Development <br>
     <br> Data Science    <br>
     <br> Machine Learning <br>
    <br> Robotics <br>
-  ]
+  ]<br>
+  <br>
 technical_background: <br>
   [
   AP Optimus - Tesla <br>
