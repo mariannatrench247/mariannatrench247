@@ -19,10 +19,10 @@ company: Tesla
 <br>
 <b>fields_of_interests:</b>
  <br> [
-   <br> Web Development <br>
-    <br> Data Science    <br>
-    <br> Machine Learning <br>
-   <br> Robotics <br>
+   <br> Web Development
+    <br> Data Science   
+    <br> Machine Learning 
+   <br> Robotics 
   ]<br>
   <br>
 technical_background: <br>
