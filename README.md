@@ -15,12 +15,12 @@ education: <br>
   <br>
 company: Tesla
 <br>
-fields_of_interests:
+<b>fields_of_interests:</b>
   [
-    Web Development <br>
-    Data Science    <br>
-    Machine Learning <br>
-    Robotics
+   <br> Web Development <br>
+    <br> Data Science    <br>
+    <br> Machine Learning <br>
+   <br> Robotics <br>
   ]
 technical_background: <br>
   [
