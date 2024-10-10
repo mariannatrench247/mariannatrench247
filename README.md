@@ -21,7 +21,13 @@
 - **Data Science**
 - **Machine Learning**
 - **Robotics**
+---
 
+### Academic & Technical Interests:
+- **Robotics Hardware**
+- **Cosmology**
+- **Investing & Trading**
+- **Cryptocurrency**
 ---
 
 ### Technical Background:
