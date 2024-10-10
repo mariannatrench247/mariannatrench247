@@ -1,47 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marianna%20Belmares&section=header&reversal=true&textBg=false" />
 <div align=”center”> 
-
-    <title>Welcome!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            text-align: center;
-            margin: 20px auto;
-            padding: 20px;
-            max-width: 800px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        p, li {
-            font-size: 18px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-        .tech-stack {
-            margin-top: 20px;
-        }
-        .field-header {
-            font-weight: bold;
-        }
-        .footer {
-            margin-top: 30px;
-            font-size: 14px;
-            color: #7f8c8d;
-        }
-    </style>
+      
+     
 </head>
 <body>
     <div class="container">
