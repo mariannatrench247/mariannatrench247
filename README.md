@@ -8,8 +8,8 @@
 
 name: Marianna <br>
 located_in: Mountain View, CA <br>
-current_job: Student Programmer, Robotics Trainer <br>
-education: <br>
+current_job:Programmer, Robotics Trainer <br>
+education: CSU East Bay & De Anza College <br>
 
   <i>   Self-Taught Programmer </i> , Bachelor's in Computer Science
   <br>
@@ -24,9 +24,9 @@ company: Tesla
   ]<br>
   <br>
 technical_background: <br>
-  [
+ <br> [
   AP Optimus - Tesla <br>
-      I train Optimus through various methods: motion capture, computer vision, LIDAR, mapping 
+      I train Optimus through various methods: motion capture, foundation models , LIDAR, mapping 
       <br> 
           learning navigation through SLAM, locatization, object detection, LIDAR processing 
           <br>
