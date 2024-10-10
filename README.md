@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marianna%20Belmares&section=header&reversal=true&textBg=false" />
 <div align=”center”> 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marianna's Profile</title>
+    <title>Welcome!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
