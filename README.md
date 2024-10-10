@@ -3,7 +3,7 @@
 <p>Student Programmer, self taught </p>
 <p>Robotics Trainer by trade</p>
 
-⚙️ I use daily: .py  .cpp <br>
+⚙️ I use .py  .cpp <br>
 
 
 name: Marianna <br>
