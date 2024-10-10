@@ -18,11 +18,11 @@ education: CSU East Bay & De Anza College <br>
 company: Tesla
 <br>
 <b>fields_of_interests:</b>
- <br> [
-   <br> Web Development
-    <br> Data Science   
-    <br> Machine Learning 
-   <br> Robotics 
+[
+  Web Development
+  Data Science   
+   Machine Learning 
+ Robotics 
   ]<br>
   <br>
 technical_background: <br>
