@@ -65,3 +65,4 @@ Feel free to connect!
 
 ---
 
+![SCary (1)](https://github.com/user-attachments/assets/1312d4e1-4ced-4d17-ad4e-5f461afbd392)
