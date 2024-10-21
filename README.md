@@ -38,7 +38,7 @@
   - Foundation models  
   - LIDAR, mapping  
   - Learning navigation through SLAM, localization, object detection, and LIDAR processing  
-  - Developing decision-making frameworks  
+  - Decision-making frameworks  
 
 ---
 
