@@ -63,6 +63,9 @@
 - **Hiking**
 - **Gym**
 - **Focusing on restful sleep**
+- **Jogging**
+- **Doggos🐶🐶**
+- **Spooky things👻👻**
 
 ---
 
