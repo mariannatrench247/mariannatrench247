@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marianna%20Belmares&section=header&reversal=true&textBg=false" />
 <div align=”center”> 
-  # Hello there 🦾🦾🦾
+  
+### Hello there 🦾🦾🦾
 
 **Student Programmer, self-taught**  
 **Robotics Trainer by trade**  
