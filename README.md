@@ -7,13 +7,13 @@
 
 ---
 
-⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js` 
-📍 **Located in**: Mountain View, CA  
-🎓 **Education**: CSU East Bay & De Anza College  
-💼 **Current Job**: Programmer, Robotics Trainer at **Tesla**  
-📚 **Degree**: Bachelor's in Computer Science  
-🚀 **Company**: Tesla
-🚧 **Current Projects** Recite: Text to Speech Application. 
+⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js`    
+📍 **Located in**: Mountain View, CA      
+🎓 **Education**: CSU East Bay & De Anza College      
+💼 **Current Job**: Programmer, Robotics Trainer at **Tesla**       
+📚 **Degree**: Bachelor's in Computer Science     
+🚀 **Company**: Tesla       
+🚧 **Current Projects** Recite: Text to Speech Application.     
 
 ---
 
