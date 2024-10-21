@@ -53,6 +53,8 @@
 
 ### Inspirations: 
 <img width="138" alt="Screenshot 2024-10-20 at 11 14 06 PM" src="https://github.com/user-attachments/assets/84a11314-187c-4e09-86a4-2aef5ac63dfa">
+<img width="138" alt="Screenshot 2024-10-20 at 11 15 24 PM" src="https://github.com/user-attachments/assets/6b410f25-1f4c-4e8d-a965-15dc94ed549a">
+
 
 
 ### Hobbies:
