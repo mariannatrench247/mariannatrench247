@@ -8,7 +8,7 @@
 
 ---
 
-⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js`    
+⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js` `.php`     
 📍 **Located in**: Mountain View, CA      
 🎓 **Education**: CSU East Bay & De Anza College      
 💼 **Current Job**: Programmer, Robotics Trainer at **Tesla**       
