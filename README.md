@@ -3,26 +3,24 @@
   
 ### Hello there 🦾🦾🦾
 
-**Student Programmer, self-taught**  
-**Robotics Trainer by trade**  
-
 ---
 
 ⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js` `.php` `.sql`     
-📍 **Located in**: Mountain View, CA      
-🎓 **Education**: CSU East Bay & De Anza College      
-💼 **Current Job**: Programmer, Robotics Trainer at **Tesla**       
+📍 **Located in**: Campbell, CA      
+🎓 **Education**: CSU East Bay - Bachelor's in Computer Science
+      In progress - Master's of Computer Science, Concentration in Artificial Intelligence
+💼 **Current Job**: Programmer, Test Specialist at **Applied Intuition**       
 📚 **Degree**: Bachelor's in Computer Science     
-🚀 **Company**: Tesla       
-🚧 **Current Projects** Recite: Text to Speech Application.     
+🚀 **Company**: Applied Intuition   
+🚧 **Current Projects** Data Science Projects at https://www.notion.so/Marianna-Belmares-Data-Science-Projects-2d8da479fbd980cbbc68d4c3f86c0c27
 
 ---
 
 ### Fields of Interest:
-- **Web Development**
 - **Data Science**
 - **Machine Learning**
 - **Robotics**
+- **Deep Learning**
 ---
 
 ### Academic & Technical Interests:
@@ -33,8 +31,7 @@
 ---
 
 ### Technical Background:
-- **AP Optimus - Tesla**  
-  I train Optimus through various methods:  
+  I train robotics through various methods:  
   - Motion capture  
   - Foundation models  
   - LIDAR, mapping  
@@ -49,12 +46,6 @@
 - `Deep Learning`
 - `C++ for Robotics`
 
-### 2024 Goals:
-- Create multiple ML models & applications
-
-### Inspirations: 
-<img width="138" alt="Screenshot 2024-10-20 at 11 14 06 PM" src="https://github.com/user-attachments/assets/84a11314-187c-4e09-86a4-2aef5ac63dfa">
-<img width="138" alt="Screenshot 2024-10-20 at 11 15 24 PM" src="https://github.com/user-attachments/assets/6b410f25-1f4c-4e8d-a965-15dc94ed549a">
 
 
 
