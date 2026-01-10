@@ -8,9 +8,7 @@
 ⚙️ **I use**: `.py` `.cpp` `.html` `.css` `.js` `.php` `.sql`     
 📍 **Located in**: Campbell, CA      
 🎓 **Education**: CSU East Bay - Bachelor's in Computer Science
-    
-    **In progress** - Master's of Computer Science, Concentration in Artificial Intelligence
-      
+🎓 **In progress** - Master's of Computer Science, Concentration in Artificial Intelligence      
 💼 **Current Job**: Programmer, Test Specialist at **Applied Intuition**       
 📚 **Degree**: Bachelor's in Computer Science     
 🚀 **Company**: Applied Intuition   
