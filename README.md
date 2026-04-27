@@ -24,13 +24,6 @@
 - **Deep Learning**
 ---
 
-### Academic & Technical Interests:
-- **Robotics Hardware**
-- **Cosmology**
-- **Investing & Trading**
-- **Cryptocurrency**
----
-
 ### Technical Background:
   
   - Robotics Training
@@ -46,6 +39,7 @@
 - `PyTorch`
 - `Deep Learning`
 - `C++ for Robotics`
+- `ROS2`
 
 
 
